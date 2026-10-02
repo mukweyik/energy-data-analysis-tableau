@@ -72,5 +72,4 @@ These visualizations were used to explore how electricity generation, demand, an
 energy-data-analysis/
 │
 ├── README.md
-└── images/
-    └── energy-dashboard.png
+└── energy_dashboard.png

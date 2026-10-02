@@ -8,7 +8,7 @@ The analysis uses energy data organized by balancing authority, region, date, ho
 
 ## Dashboard
 
-[//](https://public.tableau.com/views/U_S_EnergyAnalysis/NetProduction?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+https://public.tableau.com/views/U_S_EnergyAnalysis/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Analysis
 
